@@ -1,0 +1,5 @@
+uart_com.c:20:6:User_Init	16	static
+uart_com.c:27:6:HAL_TIM_PeriodElapsedCallback	16	static
+uart_com.c:32:6:HAL_UART_RxCpltCallback	24	static
+uart_com.c:52:6:send_data	16	static
+uart_com.c:56:6:uart_communiation_fsm	8	static
